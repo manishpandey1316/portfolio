@@ -24,24 +24,33 @@ export default function ProjectSection() {
     },
     {
       id: 3,
+      title: "Portfolio Website",
+      description:
+      "A Next.js-based portfolio project using Tailwind CSS combines the powerful React framework for seamless page rendering with the utility-first styling approach of Tailwind CSS, creating a performant and visually appealing personal portfolio website.",
+      image: "/Images/portfolio.png",
+      gitUrl:"https://github.com/manishpandey1316/portfolio",
+      previewUrl:"https://portfolio-theta-three-23.vercel.app/",
+    },
+    {
+      id: 4,
       title: "Quiz Application",
       description:
         "A React quiz application featuring a timer for time-bound questions and leveraging Chart.js for visualizing performance results, enhancing user engagement and analytical insights.",
       image: "/Images/quiz.png",
       gitUrl:"https://github.com/manishpandey1316/quiz-app",
-      previewUrl:"https://netflix-clone-ecru-eta.vercel.app/Netflix",
+      previewUrl:"https://quiz-app-lilac-xi.vercel.app/",
     },
     {
-      id: 4,
+      id: 5,
       title: "URL shortener",
       description:
       "An Express.js and MongoDB-based URL shortener using EJS for dynamic templating, allowing users to shorten and manage URLs efficiently with a clean and intuitive interface.",
       image: "/Images/url.png",
       gitUrl:"https://github.com/manishpandey1316/URL-Shortener",
-      previewUrl:"https://netflix-clone-ecru-eta.vercel.app/Netflix",
+      previewUrl:"https://url-shortener-gamma-opal.vercel.app/",
     },
     {
-      id: 5,
+      id: 6,
       title: "Snake game",
       description: "A classic Snake game implemented using vanilla JavaScript, HTML, and CSS, offering an interactive and visually appealing gaming experience",
       image: "Images/snake.png",
