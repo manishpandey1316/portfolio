@@ -20,7 +20,7 @@ export default function ProjectSection() {
         "A React Netflix clone utilizing styled-components for dynamic styling and integrating the TMDB API for fetching and displaying movie data, providing an immersive streaming experience.",
       image: "/Images/netflix.png",
       gitUrl:"https://github.com/manishpandey1316/Netflix-clone",
-      previewUrl:"https://netflix-clone-ecru-eta.vercel.app/Netflix",
+      previewUrl:"https://netflix-clone-ecru-eta.vercel.app",
     },
     {
       id: 3,
