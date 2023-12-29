@@ -110,7 +110,7 @@ export default function AboutSection() {
   const refL=useRef(null)
   const refR=useRef(null)
   const inViewL=useInView(refL,{amount:0.5})
-  const inViewR=useInView(refR,{amount:0.4})
+  const inViewR=useInView(refR,{amount:0.5})
   const variantsL={
      initial:{x:-100,opacity:0},
      animate:{x:0,opacity:1}
